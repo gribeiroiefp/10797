@@ -1,2 +1,2 @@
 Hello world!
-Desenvolvimeto
+Confirmo que estou no ramo de desenvolvimento
